@@ -1,4 +1,4 @@
-n = 2
+n = 3
 if n < 0:
    print("Enter a positive number")
 else:
@@ -6,4 +6,4 @@ else:
    while(n > 0):
        sum += n
        n -= 1
-print("3")
+print(sum)
